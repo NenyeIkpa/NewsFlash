@@ -10,7 +10,7 @@
         <entry key="app/src/main/res/drawable/newsflash_splash.xml" value="0.2045" />
         <entry key="app/src/main/res/drawable/splash.xml" value="0.2045" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
-        <entry key="app/src/main/res/layout/fragment_login_screen.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/fragment_login_screen.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_sign_up_screen.xml" value="0.2453125" />
         <entry key="app/src/main/res/layout/fragment_welcome_screen.xml" value="0.11930091185410334" />
         <entry key="app/src/main/res/mipmap-anydpi-v26/ic_news_flash_logo.xml" value="0.2045" />
